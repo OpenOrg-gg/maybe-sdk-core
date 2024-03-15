@@ -1,8 +1,7 @@
 import JSBI from 'jsbi'
 
 export enum SupportedChainId {
-  ROLLUX_TANENBAUM = 57000,
-  ROLLUX = 570
+  BLAST = 81457
 
 }
 

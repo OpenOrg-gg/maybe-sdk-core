@@ -1,17 +1,17 @@
 {
-  "name": "@pollum-io/sdk-core",
+  "name": "@maybefinance/sdk-core",
   "license": "MIT",
   "version": "0.0.3",
-  "description": "⚒️ An SDK for building applications on top of Pegasys V2",
+  "description": "⚒️ An SDK for building applications on top of maybe V2",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pegasys-io/sdk-core.git",
+  "repository": "https://github.com/OpenOrg-gg/maybe-sdk-core.git",
   "keywords": [
-    "pegasys",
-    "syscoin"
+    "maybe",
+    "blast"
   ],
   "module": "dist/sdk-core.esm.js",
   "scripts": {
